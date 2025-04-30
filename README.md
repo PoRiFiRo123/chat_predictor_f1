@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ### 🏁 How To Run the Project
 
-#### Step 1: (Optional) Fetch fresh F1 data
+#### Step 1: Fetch fresh F1 data
 ```bash
 python app/data_fetcher.py
 ```
